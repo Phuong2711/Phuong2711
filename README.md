@@ -25,21 +25,15 @@ I'm a Vietnamese Odoo developer. All coding projects are built from the ground u
 ## 🎓 Educations
 ###  Hanoi University of Industry (06/2018 – 06/2022)
 <ul>
-  <li>Maijor: Information Technology</li>
-  <li>Degree: Bachelor degree</li>
+  <li><b>Maijor:</b> Information Technology</li>
+  <li><b>Degree:</b> Bachelor degree</li>
 </ul>
 
-###  Itplus Academy (06/2018 – 06/2022)
+###  Itplus Academy (03/2021 – 11/2021)
 <ul>
-  <li>Course: Python/ Odoo Framework</li>
-  <li>Certificate: Python/Odoo course certificate</li>
+  <li><b>Course:</b> Python/ Odoo Framework</li>
+  <li><b>Certificate:</b> Python/Odoo course certificate</li>
 </ul>
 
-## 💼 Work Experiences
-###  IZISolution Co., Ltd (11/2021 – 05/2022)
-(Collaborator Odoo Backend Developer)
-
-###  AUM Vietnam Co., Ltd (07/2022 – 07/2023)
-(Odoo Developer)
 
 
